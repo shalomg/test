@@ -3,7 +3,7 @@ Author:Jamie_Yang
 Date:2017.07.27
 --
 
-##前端小白入门笔记
+#前端小白入门笔记#
 	1.当网页显示乱码时，是因为页面的编码问题，浏览器识别不了，解决办法：
 	在<head></head>标签之间添加
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
